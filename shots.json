@@ -1,5 +1,1 @@
-[
-  { "file": "1-checklist.jpg", "path": "/", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "2-silver.jpg", "path": "/", "grade": "silver", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "3-bronze.jpg", "path": "/", "grade": "bronze", "scroll": 1400, "viewport": { "width": 1280, "height": 800 } }
-]
+[{"file":"1-checklist.jpg","note":"Checklist with 13 of 55 earned: official names, descriptions, grades, filters, progress bar and the missable-trophy banner visible.","path":"/","viewport":{"height":800,"width":1280}},{"file":"2-guide.jpg","note":"Trophy 40, Maximum Withdrawal, selected: its guide, steps and cited sources open in the pane beside the checklist.","path":"/","viewport":{"height":800,"width":1280}},{"file":"3-roadmap.jpg","note":"Roadmap to Platinum tab: the missable-trophy warning and the three stages with their trophies.","path":"/","viewport":{"height":800,"width":1280}},{"file":"4-spoiler.jpg","note":"Spoiler setting at work: progress cleared, kind filter on Story, Hide story spoilers on — story trophies show as Hidden story trophy until earned.","path":"/","viewport":{"height":800,"width":1280}}]
